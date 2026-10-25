@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://funngro-redesign.vercel.app/sitemap.xml
+Sitemap: https://funngro-redesign-five.vercel.app/sitemap.xml
