@@ -42,6 +42,7 @@ ul{list-style:none}
 }
 .kicker::before,.kicker::after{content:"·";color:var(--faint)}
 h1,h2,h3{font-family:var(--serif);font-weight:560;line-height:1.08;letter-spacing:-.01em}
+.amp{font-family:var(--sans);font-style:normal}
 .display{font-size:clamp(40px,6.2vw,72px)}
 .h2{font-size:clamp(30px,4.4vw,48px);margin-bottom:18px}
 .accent-i{font-style:italic;color:var(--accent);font-weight:480}
