@@ -1,13 +1,13 @@
-# Funngro Website Revamp — Redesign Concept
+# Funngro Website Revamp - Redesign Concept
 
 Two-page redesign of [funngro.com](https://www.funngro.com/) built as the Funngro Website Revamp assignment:
 
-- `index.html` — **Teen page** (redesign of the earn/teen-facing page): earn money online with real brand work, UPI payouts.
-- `company.html` — **Company page** (redesign of the for-brands/company-facing page): youth marketing campaigns for brands.
+- `index.html` - **Teen page** (redesign of the earn/teen-facing page): earn money online with real brand work, UPI payouts.
+- `company.html` - **Company page** (redesign of the for-brands/company-facing page): youth marketing campaigns for brands.
 
 ## Stack
 
-Plain HTML5 + CSS3 + vanilla JavaScript. No build step, no dependencies — deployable as a static site anywhere (Vercel, Netlify, GitHub Pages).
+Plain HTML5 + CSS3 + vanilla JavaScript. No build step, no dependencies - deployable as a static site anywhere (Vercel, Netlify, GitHub Pages).
 
 ## SEO implementation
 
@@ -23,4 +23,4 @@ python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-Concept by M. Praveen Kumar — built with AI assistance. Not the official Funngro website.
+Concept by M. Praveen Kumar - built with AI assistance. Not the official Funngro website.
